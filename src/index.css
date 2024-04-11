@@ -1,0 +1,18 @@
+:root{
+  --gray-dark: #48556A;
+  --gray-medium: #6E8098;
+  --gray-light: #9DAEC2;
+  --blue-light: #ECF2F8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: var(--blue-light);
+  width: 100vw;
+  height: 100vh;
+}
